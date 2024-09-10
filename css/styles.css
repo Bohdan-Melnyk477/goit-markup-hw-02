@@ -54,7 +54,12 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-
+.menu-link:hover {
+  color: #404bbf;
+}
+.menu-link:focus {
+  color: #404bbf;
+}
 /* ================main============== */
 
 /* Hero section */
