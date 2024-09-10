@@ -103,6 +103,8 @@ body {
 .title-team {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
+  text-transform: capitalize;
+  background-color: #f4f4fd;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -112,6 +114,7 @@ body {
 .title-team-list {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
+  background-color: #f4f4fd;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
@@ -121,6 +124,7 @@ body {
 .item-profession {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
+  background-color: #f4f4fd;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -158,9 +162,20 @@ body {
 /* footer */
 .page-footer {
   font-family: "Roboto", sans-serif;
+  background-color: #2e2f42;
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.17;
+  line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
+.page-logo-footer {
+  font-family: "Raleway", sans-serif;
+  background-color: #2e2f42;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
   color: #f4f4fd;
 }
