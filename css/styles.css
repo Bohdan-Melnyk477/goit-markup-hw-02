@@ -75,10 +75,18 @@ body {
 .button {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
+  background-color: #4d5ae5;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
+}
+.button:hover,
+:focus {
+  background-color: #404bbf;
+}
+.title-main {
+  background-color: #2e2f42;
 }
 /* ===========Our section========= */
 .title-item {
