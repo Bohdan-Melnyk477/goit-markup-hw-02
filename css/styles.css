@@ -134,6 +134,9 @@ body {
 .title-item-team {
   background-color: #ffffff;
 }
+.team-info {
+  background-color: #f4f4fd;
+}
 /* Portfolio section */
 
 .title-portfolio {
@@ -181,4 +184,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
+}
+.name-fooret {
+  background-color: #2e2f42;
 }
