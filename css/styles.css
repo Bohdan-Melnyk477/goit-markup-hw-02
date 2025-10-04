@@ -57,6 +57,10 @@ address {
 }
 .logo-name {
 }
+.studio {
+  color: #2e2f42;
+}
+
 .active {
   font-weight: 500;
   line-height: 1.5;
