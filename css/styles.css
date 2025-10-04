@@ -89,6 +89,11 @@ address {
 .active:focus {
   color: #404bbf;
 }
+
+.contacts-item:hover,
+.contacts-item:focus {
+  color: #404bbf;
+}
 .contacts-list-item:hover,
 .contacts-list-item:focus {
   color: #404bbf;
