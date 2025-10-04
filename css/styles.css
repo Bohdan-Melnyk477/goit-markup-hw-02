@@ -182,10 +182,10 @@ address {
 
 /* Portfolio section */
 .portfolio {
-  font-size: 20px;
-  line-height: 1.2;
 }
 .portfolio-title {
+  font-size: 20px;
+  line-height: 1.2;
 }
 .portfolio-list {
 }
