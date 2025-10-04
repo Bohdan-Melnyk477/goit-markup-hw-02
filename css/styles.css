@@ -148,7 +148,7 @@ address {
 }
 .team-title {
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
@@ -160,6 +160,7 @@ address {
   background: #fff;
 }
 .team-item {
+  background-color: #ffffff;
 }
 .team-photo {
 }
@@ -193,10 +194,12 @@ address {
 }
 .portfolio-title {
   font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
+  font-size: 36px;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  text-align: center;
+  text-transform: capitalize;
 }
 .portfolio-text {
   font-size: 16px;
